@@ -1,0 +1,5 @@
+Gender,Age,Height,Weight,Obesity
+Female,21,1.62,64,Normal_Weight
+Female,21,1.52,56,Normal_Weight
+Male,23,1.8,77,Normal_Weight
+Male,27,1.8,87,Overweight_Level_I
